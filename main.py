@@ -12,8 +12,8 @@ headers = {
 }
 def print_menue():
     print("select one of the outputs: ")
-    print("1.caption 5 words")
-    print("2.description 30 to 50 words")
+    print("1.caption of 5 words")
+    print("2.description 30words")
     print("3.summary 50 words")
     print("4.exit")
 
